@@ -1,0 +1,5 @@
+ccxt # https://github.com/ccxt/ccxt
+pandas
+numpy
+ipykernel
+schedule
