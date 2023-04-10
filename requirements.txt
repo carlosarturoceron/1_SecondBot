@@ -3,3 +3,7 @@ pandas
 numpy
 ipykernel
 schedule
+
+# for strategy 2
+yfinance
+finta
