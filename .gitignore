@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 
 # Files
 /scretos.py
+__pycache__/scretos.cpython-38.pyc
